@@ -1,0 +1,1 @@
+public record Attempt (int hit, int total){}
